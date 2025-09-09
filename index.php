@@ -600,7 +600,7 @@
 		</div>
 	</div>
 
-	<!--<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
+	<!--<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_1.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
@@ -868,7 +868,7 @@
 		slideDelay: 400,
 		dynamicEl: [
 			{
-				src: 'images/4.jpg',
+				src: 'images/1.jpg',
 				thumb: 'images/gallery/20211107182627_IMG_5230.jpg-1024x.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
