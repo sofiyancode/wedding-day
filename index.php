@@ -702,7 +702,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 
 <script>
-	day = 20; month = 9; year = 2025;
+	day = 20; month = 9-1; year = 2025;
 	hour = 18; minute = 0;
 	var d = new Date(year, month, day, hour, minute, 0, 0);
 
