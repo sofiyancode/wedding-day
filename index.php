@@ -233,7 +233,7 @@
 			<div class="couple-wrap animate-box">
 				<div class="couple-half">
 					<div class="groom">
-						<img src="images/2.png" alt="groom" class="img-responsive">
+						<img src="images/3.jpg" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
 						<h3>Neli Aulia Lestary</h3>
@@ -702,7 +702,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 
 <script>
-	day = 20; month = 5-1; year = 2022;
+	day = 20; month = 5-1; year = 2025;
 	hour = 18; minute = 0;
 	var d = new Date(year, month, day, hour, minute, 0, 0);
 
