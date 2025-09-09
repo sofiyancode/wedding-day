@@ -868,64 +868,16 @@
 		slideDelay: 400,
 		dynamicEl: [
 			{
-				src: 'images/gallery/20211107182627_IMG_5230.jpg-1024x.jpg',
+				src: 'images/1.jpg',
 				thumb: 'images/gallery/20211107182627_IMG_5230.jpg-1024x.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
-			},{
-				src: 'images/gallery/IMG_9958.JPG-1024x.jpg',
+			},
+			{
+				src: 'images/3.jpg',
 				thumb: 'images/gallery/IMG_9958.JPG-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/molid.jpg-1024x.jpg',
-				thumb: 'images/gallery/molid.jpg-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/rehan.jpg-1024x.jpg',
-				thumb: 'images/gallery/rehan.jpg-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/ring-3.JPG-1024x.jpg',
-				thumb: 'images/gallery/ring-3.JPG-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/20211107181957_IMG_5207.jpg-1024x.jpg',
-				thumb: 'images/gallery/20211107181957_IMG_5207.jpg-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/IMG_9797.JPG-1024x.jpg',
-				thumb: 'images/gallery/IMG_9797.JPG-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/IMG_9802.JPG-1024x.jpg',
-				thumb: 'images/gallery/IMG_9802.JPG-1024x.jpg',
-				/*subHtml: `<div class="lightGallery-captions">
-					<h4>Caption 1</h4>
-					<p>Description of the slide 1</p>
-				</div>`,*/
-			},{
-				src: 'images/gallery/IMG_9787-1024x.jpg',
-				thumb: 'images/gallery/IMG_9787-1024x.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
