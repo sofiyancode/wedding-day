@@ -253,7 +253,7 @@
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
 					<div class="bride">
-						<img src="images/1.jpg" alt="groom" class="img-responsive">
+						<img src="images/4.jpg" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
 						<h3>Syamsul Jihad Purnama</h3>
@@ -417,7 +417,7 @@
 		</div>
 	</div>
 	<div id="fh5co-health-protocol">
-<!--		<img src="images/background/blue-brush-1.jpg" alt="">-->
+<!--		<img src="images/background/blue-brush-4.jpg" alt="">-->
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -552,7 +552,7 @@
                             <div class="item">
                                 <div class="testimony-slide active text-center">
                                     <figure>
-                                        <img src="images/couple-1.jpg" alt="user">
+                                        <img src="images/couple-4.jpg" alt="user">
                                     </figure>
                                     <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
                                     <blockquote>
@@ -600,7 +600,7 @@
 		</div>
 	</div>
 
-	<!--<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_1.jpg);">
+	<!--<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
@@ -868,7 +868,7 @@
 		slideDelay: 400,
 		dynamicEl: [
 			{
-				src: 'images/1.jpg',
+				src: 'images/4.jpg',
 				thumb: 'images/gallery/20211107182627_IMG_5230.jpg-1024x.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
