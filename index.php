@@ -15,7 +15,7 @@
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="The Wedding of Rehan and Maulidan"/>
-	<meta property="og:image" content="images/readme/half%20circle-200.png"/>
+	<meta property="og:image" content="images/gallery-5.jpg"/>
 	<meta property="og:url" content="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/"/>
 	<meta property="og:site_name" content="The Wedding of Rehan and Maulidan"/>
 	<meta property="og:description" content="The Wedding of Rehan and Maulidan. Open source wedding invitation"/>
@@ -25,10 +25,10 @@
 	<meta name="twitter:creator" content="@ngodingsolusi" />
 	<meta name="twitter:title" content="The Wedding of Rehan and Maulidan" />
 	<meta name="twitter:description" content="Open Source Wedding Invitation. The Wedding of Rehan and Maulidan" />
-	<meta name="twitter:image" content="images/readme/half%20circle-200.png" />
+	<meta name="twitter:image" content="images/gallery-5.jpg" />
 	<meta name="twitter:url" content="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/" />
 
-	<link rel="icon" href="images/readme/half%20circle-200.png">
+	<link rel="icon" href="images/gallery-5.jpg">
 
 	<!--
       //////////////////////////////////////////////////////
@@ -96,14 +96,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-2">
-                    <div id="fh5co-logo"><a href="index.html">Wedding<strong>.</strong></a></div>
+                    <div id="fh5co-logo"><a href="index.php">Wedding<strong>.</strong></a></div>
                 </div>
                 &lt;!&ndash;<div class="col-xs-10 text-right menu-1">
                     <ul>
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about.html">Story</a></li>
+                        <li class="active"><a href="index.php">Home</a></li>
+                        <li><a href="about.php">Story</a></li>
                         <li class="has-dropdown">
-                            <a href="services.html">Services</a>
+                            <a href="services.php">Services</a>
                             <ul class="dropdown">
                                 <li><a href="#">Web Design</a></li>
                                 <li><a href="#">eCommerce</a></li>
@@ -112,7 +112,7 @@
                             </ul>
                         </li>
                         <li class="has-dropdown">
-                            <a href="gallery.html">Gallery</a>
+                            <a href="gallery.php">Gallery</a>
                             <ul class="dropdown">
                                 <li><a href="#">HTML5</a></li>
                                 <li><a href="#">CSS3</a></li>
@@ -120,7 +120,7 @@
                                 <li><a href="#">jQuery</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>&ndash;&gt;
             </div>
@@ -174,7 +174,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box fadeInUp animated-fast">
-						<img src="images/half%20circle%20flower-500.png" alt="" class="couple-main">
+						<img src="images/gallery-5.jpg" alt="" class="couple-main" style="border-radius: 100%;">
 					</div>
 				</div>
 				<div class="row">
@@ -201,7 +201,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<img src="images/half%20circle%20flower-500.png" alt="" class="couple-main">
+					<img src="images/gallery-5.jpg" alt="" class="couple-main" style="border-radius: 100%;">
 				</div>
 			</div>
 			<div class="row">
@@ -233,10 +233,10 @@
 			<div class="couple-wrap animate-box">
 				<div class="couple-half">
 					<div class="groom">
-						<img src="images/rehan-square.jpg" alt="groom" class="img-responsive">
+						<img src="images/2.png" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
-						<h3>Rayhan Yulanda</h3>
+						<h3>Neli Aulia Lestary</h3>
 						<p><span style="color: #bf9b73">Putri kedua dari</span><br>
 							<span class="parents-font">Bapak Samidan Angkasa Wijaya</span>
 							<br>
@@ -253,12 +253,12 @@
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
 					<div class="bride">
-						<img src="images/molid-square.jpg" alt="groom" class="img-responsive">
+						<img src="images/1.jpg" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
-						<h3>Maulidan Nashuha</h3>
+						<h3>Syamsul Jihad Purnama</h3>
 						<p><span style="color: #bf9b73">Putra Kedua dari</span><br>
-							<span class="parents-font">Bapak Asri Abdurrahman</span>
+							<span class="parents-font">Bapak H. Hirman, S. Ag</span>
 							<br>
 							<span class="parents-font">Ibu Marliana</span>
 						</p>
@@ -298,7 +298,7 @@
 							<div class="event-col">
 								<i class="icon-calendar"></i>
 								<span>Jumat</span>
-								<span class="tanggal">20 Mei 2022</span>
+								<span class="tanggal">20 September 2025</span>
 							</div>
 							<p style="font-family: 'Courgette', Arial, serif">Alamat : Masjid Keuchik Leumik, Gampong Lamseupeung, Kec. Lueng Bata, Banda Aceh</p>
 
@@ -317,7 +317,7 @@
 							<div class="event-col">
 								<i class="icon-calendar"></i>
 								<span>Sabtu</span>
-								<span class="tanggal">21 Mei 2022</span>
+								<span class="tanggal">21 September 2025</span>
 							</div>
 							<p style="font-family: 'Courgette', Arial, serif">Alamat : Amel Convention Hall, Jl. Prof. Ali Hasyimi, Lamteh, Kec. Ulee Kareng, Banda Aceh</p>
 
@@ -342,7 +342,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Galeri Foto</h2>
-					<h3 style="color: #bf9b73">Khitbah Day - 07 November 2021</h3>
+					<h3 style="color: #bf9b73">Khitbah Day - 22 September 2025</h3>
 				</div>
 			</div>
 			<div class="row row-bottom-padded-md animate-box">
@@ -645,11 +645,11 @@
 					<h3 style="color: #bf9b73">Wassalamu'alaikum Wr. Wb.</h3>
 					Jazakumullahu Khairan
 					</p>
-					<img src="images/readme/half%20circle-200.png" width="100" height="100">
+					<img src="images/gallery-5.jpg" width="100" height="100" style="border-radius: 100%;">
 					<br>
-					<h1 style="font-family: 'Satisfy', Arial, serif">Rehan & Maulidan</h1>
+					<h1 style="font-family: 'Satisfy', Arial, serif">Neli & Jihad</h1>
 					<p>
-						© Copyright 2022 NIKAH DIGITAL All Rights Reserved </br>
+						© Copyright 2025 NIKAH DIGITAL All Rights Reserved </br>
 						<small>Instagram : nikahdigitalcom | Whatsapp : (+62) 853-6006-1021 | NikahDigital.com |halo@nikahdigital.com</small>
 					<ul class="fh5co-social-icons">
 						<li><a target="_blank" href="https://wa.me/6285360061021/"><i class="icon-phone"></i></a></li>

@@ -74,14 +74,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-2">
-					<div id="fh5co-logo"><a href="index.html">Wedding<strong>.</strong></a></div>
+					<div id="fh5co-logo"><a href="index.php">Wedding<strong>.</strong></a></div>
 				</div>
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="about.html">Story</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="about.php">Story</a></li>
 						<li class="has-dropdown active">
-							<a href="services.html">Services</a>
+							<a href="services.php">Services</a>
 							<ul class="dropdown">
 								<li><a href="#">Web Design</a></li>
 								<li><a href="#">eCommerce</a></li>
@@ -90,7 +90,7 @@
 							</ul>
 						</li>
 						<li class="has-dropdown">
-							<a href="gallery.html">Gallery</a>
+							<a href="gallery.php">Gallery</a>
 							<ul class="dropdown">
 								<li><a href="#">HTML5</a></li>
 								<li><a href="#">CSS3</a></li>
@@ -98,7 +98,7 @@
 								<li><a href="#">jQuery</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
